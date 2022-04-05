@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rafaela</h1>
-<h3 align="center">A passionate web developer from Brazil.</h3>
+<h3 align="center">A passionate web developer from Brazil based in Denver, Colorado.</h3>
 
-<p align="center"> I’m currently finishing a Full Stack Web and Mobile App Developer Bootcamp (350h).</p>
+<p align="center"> I’m currently finishing a Full-Stack Web and Mobile App Developer Bootcamp (350h).</p>
 
-
- 
 <div align="center">
   <a href="https://github.com/grisonrf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grisonrf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
