@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafaela</h1>
 <h3 align="center">A passionate web developer from Brazil based in Denver, Colorado.</h3>
 
-<p align="center"> I’m currently finishing a Full-Stack Web and Mobile App Developer Bootcamp.</p>
+<!-- <p align="center"> I’m currently finishing a Full-Stack Web and Mobile App Developer Bootcamp.</p> -->
 
 <div align="center">
   <a href="https://github.com/grisonrf">
