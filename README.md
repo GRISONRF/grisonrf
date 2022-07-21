@@ -3,7 +3,7 @@
 <!-- <br>🔭 I'm curently working on [[ChangeMakers](https://github.com/GRISONRF/final-project-hackbright)].<br>👯 I’m looking to collaborate on open-source projects.<br>Reach out at grisonrf@gmail.com. -->
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafaelagrison/) [!<a href="https://twitter.com/rgrison" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafaelagrison/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rgrison) 
 
 
 # 💻 Tech Stack:
