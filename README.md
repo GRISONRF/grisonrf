@@ -2,8 +2,8 @@
 <h3 align="center">Full-Stack Software Engineer from Brazil based in Denver, Colorado (USA).</h3>
 <!-- <br>🔭 I'm curently working on [[ChangeMakers](https://github.com/GRISONRF/final-project-hackbright)].<br>👯 I’m looking to collaborate on open-source projects.<br>Reach out at grisonrf@gmail.com. -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafaelagrison/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rgrison) 
+## 🌐 Find me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafaelagrison/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rgrison) <a href = "mailto:grisonrf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 ## 💻 Languages and Tools:
