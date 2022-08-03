@@ -1,8 +1,9 @@
 <h2 align="center">Hi 👋, I'm Rafaela</h2>
 <h3 align="center">A Full-Stack Software Engineer from Brazil based in Denver, Colorado (US).</h3>
+<p align="center"> Reach me at grisonrf@gmail.com </p>
 <!-- <br>🔭 I'm curently working on [[ChangeMakers](https://github.com/GRISONRF/final-project-hackbright)].<br>👯 I’m looking to collaborate on open-source projects.<br>Reach out at grisonrf@gmail.com. -->
 
-### 🌐 Find me:
+### 🌐 Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/rafaelagrison/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="https://www.instagram.com/rafaelagrison/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
