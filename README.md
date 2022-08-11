@@ -1,5 +1,6 @@
 <h2 align="center">Hi 👋, I'm Rafaela</h2>
 <h3 align="center">A Full-Stack Software Engineer from Brazil based in Denver, Colorado (US).</h3>
+<p align="center"> Most recent project: <a href="https://github.com/GRISONRF/final-project-hackbright">ChangeMakers</a> </p>
 <p align="center"> Reach me at grisonrf@gmail.com </p>
 <!-- <br>🔭 I'm curently working on [[ChangeMakers](https://github.com/GRISONRF/final-project-hackbright)].<br>👯 I’m looking to collaborate on open-source projects.<br>Reach out at grisonrf@gmail.com. -->
 
