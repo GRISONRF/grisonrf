@@ -50,4 +50,4 @@
 <br>
   
 <!-- ![Snake animation](https://github.com/grisonrf/grisonrf/blob/output/github-contribution-grid-snake.svg) -->
-<!-- [![](https://visitcount.itsvg.in/api?id=GRISONRF&label=Profile%20Views&color=7&icon=5&pretty=false)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=GRISONRF&label=Profile%20Views&color=7&icon=5&pretty=false)](https://visitcount.itsvg.in)
