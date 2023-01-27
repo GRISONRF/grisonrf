@@ -1,7 +1,12 @@
 <h2 align="center">Hi 👋, I'm Rafaela</h2>
 <h3 align="center">A Full-Stack Software Engineer from Brazil based in Denver, Colorado (US).</h3>
-<p align="center"> Most recent project: <a href="https://github.com/GRISONRF/final-project-hackbright">ChangeMakers</a> </p>
-<p align="center"> Reach me at grisonrf@gmail.com </p>
+<h3> Most recent projects: </h3>
+<p><a href="https://github.com/GRISONRF/final-project-hackbright">ChangeMakers</a> </p>
+<p><b>Tech Stack:</b> Python, Flask, SQL, JavaScript, React and more. </p>
+<p><a href="https://github.com/GRISONRF/shelter">Animal Shelter Management System</a> </p>
+<p><b>Tech Stack:</b> Java, Spring Boot, JavaScript, Maven, Thymeleaf and more.</p>
+<br>
+<p><i>Reach me at grisonrf@gmail.com</i></p>
 <!-- <br>🔭 I'm curently working on [[ChangeMakers](https://github.com/GRISONRF/final-project-hackbright)].<br>👯 I’m looking to collaborate on open-source projects.<br>Reach out at grisonrf@gmail.com. -->
 
 ### 🌐 Socials:
@@ -32,6 +37,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
             
 <br>
 
