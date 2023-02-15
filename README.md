@@ -48,7 +48,11 @@ Please feel free to email me if you would like to network, collaborate, or discu
 <br>
 <br>  
   
-
+### :woman_cartwheeling: On my free time you can find me: <br>
+Volunteering for [HackForLA](https://www.hackforla.org/) and [OutInTech](https://outintech.com/) <br>
+Climbing <br>
+Snowboarding <br>
+Working on getting my skydiving license! <br>
 
 <!-- ### 📊 GitHub Stats:
 
