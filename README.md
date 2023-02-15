@@ -52,7 +52,7 @@ Please feel free to email me if you would like to network, collaborate, or discu
 Volunteering for [HackForLA](https://www.hackforla.org/) and [OutInTech](https://outintech.com/) <br>
 Climbing <br>
 Snowboarding <br>
-Working on getting my skydiving license! <br>
+Working on getting my USPA 'A' skydiving license! <br>
 
 <!-- ### 📊 GitHub Stats:
 
