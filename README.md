@@ -8,7 +8,6 @@
 <br>
 
 <!-- <br>🔭 I'm curently working on [ChangeMakers](https://github.com/GRISONRF/ChangeMakersApp).<br>👯 I’m looking to collaborate on open-source projects.<br>Reach out at grisonrf@gmail.com. -->
-https://github.com/GRISONRF/ChangeMakersApp
   
 ### 💻 Languages and Tools:
 <p align="left"> 
