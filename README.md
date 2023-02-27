@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Rafaela</h2>
 <h3 align="center">A Full-Stack Software Engineer from Brazil based in Denver, Colorado (US).</h3>
 <h3> Most recent projects: </h3>
-<a href="https://github.com/GRISONRF/final-project-hackbright">ChangeMakers</a> <br>
+<a href="https://github.com/GRISONRF/ChangeMakersApp">ChangeMakers</a> <br>
 <p><b>Tech Stack:</b> Python, Flask, SQL, JavaScript, React and more. </p>
 <a href="https://github.com/GRISONRF/shelter">Animal Shelter Management System</a><br>
 <p><b>Tech Stack:</b> Java, Spring Boot, JavaScript, Maven, Thymeleaf and more.</p>
