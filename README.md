@@ -1,13 +1,16 @@
 <h2 align="center">Hi 👋, I'm Rafaela</h2>
 <h3 align="center">A Full-Stack Software Engineer from Brazil based in Denver, Colorado (US).</h3>
-<h3> Most recent projects: </h3>
+<h3>✏️ Most recent projects: </h3>
 <a href="https://github.com/GRISONRF/ChangeMakersApp">ChangeMakers</a> <br>
 <p><b>Tech Stack:</b> Python, Flask, SQL, JavaScript, React and more. </p>
 <a href="https://github.com/GRISONRF/shelter">Animal Shelter Management System</a><br>
 <p><b>Tech Stack:</b> Java, Spring Boot, JavaScript, Maven, Thymeleaf and more.</p>
-<br>
 
-<!-- <br>🔭 I'm curently working on [ChangeMakers](https://github.com/GRISONRF/ChangeMakersApp).<br>👯 I’m looking to collaborate on open-source projects.<br>Reach out at grisonrf@gmail.com. -->
+<h3>📖 Currently learning:</h3>
+– <a href="https://github.com/GRISONRF/multithread-studies">Multithreads.</a><br>
+– <a href="https://medium.com/@grisonrf/microservices-notes-part-i-d9ed741270cb">Microservices.</a><br>
+– <a href="https://github.com/GRISONRF/apache-kafka-studies">Apache Kafka.</a>
+<br>
   
 ### 💻 Languages and Tools:
 <p align="left"> 
@@ -32,10 +35,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" />
             
 <br>
-<br>
   
 ### 🌐 Socials:
-Please feel free to email me if you would like to network, collaborate, or discuss an opportunity with me!<br>
+Please feel free to email me if you would like to network, collaborate, or discuss an opportunity with me<br>
 [grisonrf@gmail.com](mailto:grisonrf@gmail.com)
 <p align="left">
 <a href="https://www.linkedin.com/in/rafaelagrison/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
@@ -44,8 +46,7 @@ Please feel free to email me if you would like to network, collaborate, or discu
 
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafaelagrison/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rgrison) <a href = "mailto:grisonrf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
-<br>
-<br>  
+<br> 
   
 
 <!-- ### 📊 GitHub Stats:
@@ -62,8 +63,6 @@ Please feel free to email me if you would like to network, collaborate, or discu
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grisonrf&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grisonrf&layout=compact&langs_count=7&theme=dracula"/>
 </div> -->
-<br>
-<br>
 <br>
   
 ![Snake animation](https://github.com/grisonrf/grisonrf/blob/output/github-contribution-grid-snake.svg)
