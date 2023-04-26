@@ -6,11 +6,14 @@
 <a href="https://github.com/GRISONRF/shelter">Animal Shelter Management System</a><br>
 <p><b>Tech Stack:</b> Java, Spring Boot, JavaScript, Maven, Thymeleaf and more.</p>
 
-<h3>📖 Currently learning:</h3>
+<h3>📖 Currently:</h3>
+Learning:<br>
 – <a href="https://github.com/GRISONRF/multithread-studies">Multithreads.</a><br>
 – <a href="https://medium.com/@grisonrf/microservices-notes-part-i-d9ed741270cb">Microservices.</a><br>
 – <a href="https://github.com/GRISONRF/apache-kafka-studies">Apache Kafka.</a>
 <br>
+Building:<br>
+– <a href="https://github.com/GRISONRF/chat-app">MERN Application (Real time chat app)</a><br>
   
 ### 💻 Languages and Tools:
 <p align="left"> 
