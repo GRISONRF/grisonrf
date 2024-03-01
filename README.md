@@ -40,8 +40,7 @@ Building:<br>
 <br>
   
 ### 🌐 Socials:
-Please feel free to email me if you would like to network, collaborate, or discuss an opportunity with me<br>
-[grisonrf@gmail.com](mailto:grisonrf@gmail.com)
+
 <p align="left">
 <a href="https://www.linkedin.com/in/rafaelagrison/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="https://twitter.com/grisonrf" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
@@ -68,6 +67,4 @@ Please feel free to email me if you would like to network, collaborate, or discu
 </div> -->
 <br>
   
-![Snake animation](https://github.com/grisonrf/grisonrf/blob/output/github-contribution-grid-snake.svg)
-<!-- [![](https://visitcount.itsvg.in/api?id=GRISONRF&label=Profile%20Views&color=7&icon=5&pretty=false)](https://visitcount.itsvg.in) -->
 
