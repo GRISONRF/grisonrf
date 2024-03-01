@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Rafaela</h2>
-<h3 align="center">A Full-Stack Software Engineer from Brazil based in Denver, Colorado (US).</h3>
+<h3 align="center">A Full-Stack Software Engineer from Brazil based in Chicago (US).</h3>
 <h3>✏️ Most recent projects: </h3>
 <a href="https://github.com/GRISONRF/ChangeMakersApp">ChangeMakers</a> <br>
 <p><b>Tech Stack:</b> Python, Flask, SQL, JavaScript, React and more. </p>
