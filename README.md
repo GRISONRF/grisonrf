@@ -13,7 +13,7 @@ Learning:<br>
 – <a href="https://github.com/GRISONRF/apache-kafka-studies">Apache Kafka.</a>
 <br>
 Building:<br>
-– <a href="https://github.com/GRISONRF/chat-app">MERN Application (Real time chat app)</a><br>
+– <a href="https://github.com/GRISONRF/angular-project">Angular application</a><br>
   
 ### 💻 Languages and Tools:
 <p align="left"> 
