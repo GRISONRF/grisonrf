@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Rafaela</h2>
+<h2 align="center">Hi 👋, I'm Rafaela (she/her)</h2> 
 <h3>✏️ Most recent full-stack projects: </h3>
 <a href="https://github.com/GRISONRF/react-website">React App</a> <br>
 <p><b>Teach Stack:</b> React/Vue, Node, MongoDB Atlas, Firebase Auth.</p>
