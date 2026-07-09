@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋, I'm Rafaela (she/her)</h2> 
 <h3>✏️ Most recent full-stack projects: </h3>
-<a href="https://github.com/GRISONRF/react-website">React App</a> <br>
-<p><b>Teach Stack:</b> React/Vue, Node, MongoDB Atlas, Firebase Auth.</p>
+<a href="https://github.com/GRISONRF/MedVitals">MedVitals</a> <br>
+<p><b>Teach Stack:</b> Python, FastAPI, React, TypeScript, Tailwind CSS</p>
 <a href="https://github.com/GRISONRF/ChangeMakersApp">ChangeMakers</a> <br>
-<p><b>Tech Stack:</b> Python, Flask, SQL, JavaScript, React and more. </p>
+<p><b>Tech Stack:</b> Python, Flask, SQL, JavaScript, React </p>
 <a href="https://github.com/GRISONRF/shelter">Animal Shelter Management System</a><br>
-<p><b>Tech Stack:</b> Java, Spring Boot, JavaScript, Maven, Thymeleaf and more.</p>
+<p><b>Tech Stack:</b> Java, Spring Boot, JavaScript, Maven, Thymeleaf</p>
 
 
 <h3>📖 Currently:</h3>
